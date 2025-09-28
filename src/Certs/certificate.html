@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Certificate Verification - ABC Tech Labs</title>
+    <link href="../output.css" rel="stylesheet" />
+  </head>
+
+  <body
+    class="bg-[#01010d] text-[#d8caff] font-sans flex flex-col justify-center items-center p-6"
+  >
+    <header
+      class="w-full bg-[#01010d] max-w-4xl flex items-center justify-start space-x-3 mb-10 cursor-pointer"
+      role="banner"
+    >
+      <a
+        href="../index.html"
+        class="flex items-center space-x-3 focus:outline-none focus:ring-2 focus:ring-purple-500"
+        aria-label="Go back to home"
+      >
+        <svg
+          class="h-10 w-10 text-iconpurple"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <rect x="3" y="3" width="18" height="18" rx="3" stroke-width="2" />
+          <path d="M7 7h10v10H7z" stroke-width="2" />
+        </svg>
+        <span class="font-bold text-xl select-text">ABC Tech Labs</span>
+      </a>
+    </header>
+
+    <main
+      id="cert-container"
+      class="bg-[#161b28] border border-purple-700 rounded-lg p-8 max-w-lg w-full text-center space-y-6 shadow-lg"
+    >
+      <h1 class="text-2xl font-bold select-text">Certificate Verification</h1>
+      <div id="icon-container" class="flex justify-center mb-4"></div>
+      <p id="student-data" class="text-lg leading-relaxed select-text"></p>
+    </main>
+
+    <script>
+      async function loadCertificate() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const Cert_id = urlParams.get("Cert_id");
+
+        const res = await fetch("Interns_data.json");
+        const data = await res.json();
+
+        const student = data.find((s) => s.Cert_id === Cert_id);
+        const iconContainer = document.getElementById("icon-container");
+        const studentData = document.getElementById("student-data");
+
+        if (student) {
+          // Green tick icon SVG
+          iconContainer.innerHTML = `
+          <svg class="h-16 w-16 text-green-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true" focusable="false">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7" />
+          </svg>
+        `;
+
+          studentData.innerHTML = `
+          <strong>Name:</strong>  ${student.Student_name}<br>
+          <strong>Internship domain:</strong>  ${student.Domain}<br>
+          <strong>Duration:</strong> from  ${student.Start_date} to ${student.End_date} <br>
+          <strong>Certificate id:</strong>  ${student.Cert_id}<br><br>
+          <span class="font-semibold text-green-400">Certificate Verified</span>
+        `;
+        } else {
+          // Red cross icon SVG
+          iconContainer.innerHTML = `
+          <svg class="h-16 w-16 text-red-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true" focusable="false">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        `;
+
+          studentData.innerHTML = `
+          <span class="text-red-500 font-semibold">Invalid Certificate ID.</span><br>
+          Please check the certificate link or contact support for assistance.
+        `;
+        }
+      }
+      loadCertificate();
+    </script>
+  </body>
+</html>

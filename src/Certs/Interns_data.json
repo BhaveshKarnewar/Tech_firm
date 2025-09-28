@@ -1,0 +1,821 @@
+[
+  {
+    "Srno": 1,
+    "Cert_id": "2025V001",
+    "Student_name": "VEDANT ANILRAO WADHONKAR",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 2,
+    "Cert_id": "2025V002",
+    "Student_name": "DHIRAJ RAM CHAUDHARI",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 3,
+    "Cert_id": "2025V003",
+    "Student_name": "HARSHWARDHAN DINESH ADHAL",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 4,
+    "Cert_id": "2025V004",
+    "Student_name": "PREM SURESHRAO RAUT",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 5,
+    "Cert_id": "2025V005",
+    "Student_name": "PRATIK MOHAN SHEWANE",
+    "Domain": "FULL STACK DEVELOPMENT ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 6,
+    "Cert_id": "2025V006",
+    "Student_name": "SOHAM RAM HAUNSKAR",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 7,
+    "Cert_id": "2025V007",
+    "Student_name": "TEJAS SHRICHAND PAWAR",
+    "Domain": "POWER BI ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 8,
+    "Cert_id": "2025V008",
+    "Student_name": "RUJAL RAJU RINGNE",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 9,
+    "Cert_id": "2025V009",
+    "Student_name": "DEVANSHU WARHEKAR",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 10,
+    "Cert_id": "2025V010",
+    "Student_name": "BRIJESH RAMESH YADAV",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 11,
+    "Cert_id": "2025V011",
+    "Student_name": "SWAPNIL ASHOK KARWATE ",
+    "Domain": "CLOUD COMPUTING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 12,
+    "Cert_id": "2025V012",
+    "Student_name": "SHRIKANT RAJU PHAD ",
+    "Domain": "MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 13,
+    "Cert_id": "2025V013",
+    "Student_name": "ALTAMASH KHAN MAHEMOOD KHAN ",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 14,
+    "Cert_id": "2025V014",
+    "Student_name": "JAY SURESH ADE ",
+    "Domain": "CYBER SECURITY ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 15,
+    "Cert_id": "2025V015",
+    "Student_name": "SAYALI MANOHAR KHAWASHI ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 16,
+    "Cert_id": "2025V016",
+    "Student_name": "ANUSHRI PRAFULL BHANGALE ",
+    "Domain": "MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 17,
+    "Cert_id": "2025V017",
+    "Student_name": "ANJANA SARKAR ",
+    "Domain": "POWER BI",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 18,
+    "Cert_id": "2025V018",
+    "Student_name": "SAMIKSHA BHAGWAT AWCHAR ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 19,
+    "Cert_id": "2025V019",
+    "Student_name": "GAYATRI UMESH VILAYATKAR ",
+    "Domain": "POWER BI",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 20,
+    "Cert_id": "2025V020",
+    "Student_name": "JAYKUMAR SUDHAKAR SANGADE ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 21,
+    "Cert_id": "2025V021",
+    "Student_name": "HUZAIF ASHHAR ASLAM AZIM SHEIKH ",
+    "Domain": "JAVA FULL STACK DEVELOPMENT ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 22,
+    "Cert_id": "2025V022",
+    "Student_name": "JANVI DEEPAK PATNEY ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 23,
+    "Cert_id": "2025V023",
+    "Student_name": "SAMIKSHA MURLIDHAR KAKDE ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 24,
+    "Cert_id": "2025V024",
+    "Student_name": "ANKITA ASHISH WARKHADE ",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 25,
+    "Cert_id": "2025V025",
+    "Student_name": "SANCHIT DINKAR GAWANDE ",
+    "Domain": "MERN STACK DEVELOPMENT",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 26,
+    "Cert_id": "2025V026",
+    "Student_name": "KULDIP KAILAS HIWALE ",
+    "Domain": "MERN STACK DEVELOPMENT",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 27,
+    "Cert_id": "2025V027",
+    "Student_name": "ABHIMANYU VITTHALRAO MOHITE ",
+    "Domain": "MERN STACK DEVELOPMENT",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 28,
+    "Cert_id": "2025V028",
+    "Student_name": "MEGHA DATTATRAY BIRADAR ",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 29,
+    "Cert_id": "2025V029",
+    "Student_name": "VAISHNAVI SANJAY SARVE ",
+    "Domain": "MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 30,
+    "Cert_id": "2025V030",
+    "Student_name": "SEJAL VIJAY RATHOD ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 31,
+    "Cert_id": "2025V031",
+    "Student_name": "NIVRUTTI BABURAO TIDKE ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 32,
+    "Cert_id": "2025V032",
+    "Student_name": "ANAND BAPURAO SHELKE ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 33,
+    "Cert_id": "2025V033",
+    "Student_name": "ADITYA SHRIRAM JATALE ",
+    "Domain": "MERN STACK DEVELOPMENT",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 34,
+    "Cert_id": "2025V034",
+    "Student_name": "PRERNA DEVIDAS KHARBADE ",
+    "Domain": "MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 35,
+    "Cert_id": "2025V035",
+    "Student_name": "ANJALI GANGADHAR MINKE ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 36,
+    "Cert_id": "2025V036",
+    "Student_name": "ANJALI DATTAHARI SURYAWANSHI ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 37,
+    "Cert_id": "2025V037",
+    "Student_name": "\u00c0AKANKSHA PRABHAKAR GIRHE ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 38,
+    "Cert_id": "2025V038",
+    "Student_name": "SHRUSHTI MANILAL RAVANI ",
+    "Domain": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 39,
+    "Cert_id": "2025V039",
+    "Student_name": "ISHANAY VIJAY JAISINGPURE ",
+    "Domain": "MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 40,
+    "Cert_id": "2025V040",
+    "Student_name": "ASHWIN RAMDAS JADHAO",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 41,
+    "Cert_id": "2025V041",
+    "Student_name": "KANISHK PRAMOD BUTLE ",
+    "Domain": "DATA ANALYTICS (PYTHON)",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 42,
+    "Cert_id": "2025V042",
+    "Student_name": "YASH GAJANAN JUNGHARE ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 43,
+    "Cert_id": "2025V043",
+    "Student_name": "SUHANI SURESH RAIBOLE ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 44,
+    "Cert_id": "2025V044",
+    "Student_name": "PRERNA VILASRAO KAKAD ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 45,
+    "Cert_id": "2025V045",
+    "Student_name": "DIKSHA GAJANAN NAGRE ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 46,
+    "Cert_id": "2025V046",
+    "Student_name": "ANIKET SIDDHASAGAR MESHRAM ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 47,
+    "Cert_id": "2025V047",
+    "Student_name": "SANIKA RAJENDRA MISAL ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 48,
+    "Cert_id": "2025V048",
+    "Student_name": "SAYALI RAJENDRA KHUPSE ",
+    "Domain": "DATA ANALYSIS ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 49,
+    "Cert_id": "2025V049",
+    "Student_name": "SAMRUDDHI SUHAS BHAMKAR ",
+    "Domain": "DATA SCIENCE ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 50,
+    "Cert_id": "2025V050",
+    "Student_name": "VAIBHAV VINOD INGLE ",
+    "Domain": "CYBER SECURITY ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 51,
+    "Cert_id": "2025V051",
+    "Student_name": "POOJA RAVIKIRAN GHONGE ",
+    "Domain": "MACHINE LEARNING ",
+    "Start_date": "15th Oct 2024",
+    "End_date": "30th Nov 2024",
+    "Semester": 5
+  },
+  {
+    "Srno": 52,
+    "Cert_id": "2025V052",
+    "Student_name": "Apeksha Bhagat",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 53,
+    "Cert_id": "2025V053",
+    "Student_name": "Gayatri Darne",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 54,
+    "Cert_id": "2025V054",
+    "Student_name": "Sejal Pund",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 55,
+    "Cert_id": "2025V055",
+    "Student_name": "Gauri Wande",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 56,
+    "Cert_id": "2025V056",
+    "Student_name": "Tejaswini Ghore",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 57,
+    "Cert_id": "2025V057",
+    "Student_name": "Poonam Thakare",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 58,
+    "Cert_id": "2025V058",
+    "Student_name": "Rucha Raut",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 59,
+    "Cert_id": "2025V059",
+    "Student_name": "Tejaswi Sawarkar",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 60,
+    "Cert_id": "2025V060",
+    "Student_name": "Pooja Rode",
+    "Domain": "Data Analytics",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 61,
+    "Cert_id": "2025V061",
+    "Student_name": "Sakshi Khode",
+    "Domain": "Data Analytics",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 62,
+    "Cert_id": "2025V062",
+    "Student_name": "Shruti wadhekar",
+    "Domain": "Data Analytics",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 63,
+    "Cert_id": "2025V063",
+    "Student_name": "Sanchita Sande",
+    "Domain": "Data Analytics",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 64,
+    "Cert_id": "2025V064",
+    "Student_name": "Gauri Ingole",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 65,
+    "Cert_id": "2025V065",
+    "Student_name": "Nikita Dahake",
+    "Domain": "Data Analytics",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 66,
+    "Cert_id": "2025V066",
+    "Student_name": "Akanksha Nandanwar",
+    "Domain": "Data Analytics",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 67,
+    "Cert_id": "2025V067",
+    "Student_name": "Tapasya Mendole",
+    "Domain": "Data Analytics",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 68,
+    "Cert_id": "2025V068",
+    "Student_name": "Anushka Chaturkar",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 69,
+    "Cert_id": "2025V069",
+    "Student_name": "Kamini Patil",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 70,
+    "Cert_id": "2025V070",
+    "Student_name": "Rounak Arwar",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 71,
+    "Cert_id": "2025V071",
+    "Student_name": "Om Rajesh Suklikar",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 72,
+    "Cert_id": "2025V072",
+    "Student_name": "Shivam Manoj Sharma",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 73,
+    "Cert_id": "2025V073",
+    "Student_name": "Shivaji Gajanan mule",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 74,
+    "Cert_id": "2025V074",
+    "Student_name": "Vishal Bhagwan Narwade",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 75,
+    "Cert_id": "2025V075",
+    "Student_name": "Gaurav Nitin Bawankar",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 76,
+    "Cert_id": "2025V076",
+    "Student_name": "Shreyash Maroti Meshram",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 77,
+    "Cert_id": "2025V077",
+    "Student_name": "Sunil Sanjay Bidve",
+    "Domain": "Data Science",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 78,
+    "Cert_id": "2025V078",
+    "Student_name": "Nishar Sundar Chavan",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 79,
+    "Cert_id": "2025V079",
+    "Student_name": "Ansh Ramashankar Shahare",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 80,
+    "Cert_id": "2025V080",
+    "Student_name": "Vikas Sahebrao Kasolkar",
+    "Domain": "Artificial Intelligence",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 81,
+    "Cert_id": "2025V081",
+    "Student_name": "Aditya Arvind Karbhal",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 82,
+    "Cert_id": "2025V082",
+    "Student_name": "Nayan Pawan Bhutada",
+    "Domain": "Artificial Intelligence ",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 83,
+    "Cert_id": "2025V083",
+    "Student_name": "Mahesh Macchindra Phalke",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 84,
+    "Cert_id": "2025V084",
+    "Student_name": "Piyush Shyam Shirke",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 85,
+    "Cert_id": "2025V085",
+    "Student_name": "Jagdish Ramesh Rathod",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 86,
+    "Cert_id": "2025V086",
+    "Student_name": "Abhishek Indrajeet Madne",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 87,
+    "Cert_id": "2025V087",
+    "Student_name": "Manav Dhaye",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 88,
+    "Cert_id": "2025V088",
+    "Student_name": "Aditya Ingle",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 89,
+    "Cert_id": "2025V089",
+    "Student_name": "Yash Dhoke",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 90,
+    "Cert_id": "2025V090",
+    "Student_name": "Vivek Rekulwar",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  },
+  {
+    "Srno": 91,
+    "Cert_id": "2025V091",
+    "Student_name": "Sudarshan Tayde ",
+    "Domain": "Data Science & Machine Learning",
+    "Start_date": "15th Dec 2024",
+    "End_date": "31st Jan 2024",
+    "Semester": 7
+  }
+]
