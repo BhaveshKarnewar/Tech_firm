@@ -91,7 +91,7 @@
   },
   {
     "Srno": 11,
-    "Cert_id": "2025V011",
+    "Cert_id": "  ",
     "Student_name": "SWAPNIL ASHOK KARWATE ",
     "Domain": "CLOUD COMPUTING ",
     "Start_date": "15th Oct 2024",
@@ -101,7 +101,7 @@
   {
     "Srno": 12,
     "Cert_id": "2025V012",
-    "Student_name": "SHRIKANT RAJU PHAD ",
+    "Student_name": "SHRIKANT RAJU PHAD",
     "Domain": "MACHINE LEARNING ",
     "Start_date": "15th Oct 2024",
     "End_date": "30th Nov 2024",
@@ -452,7 +452,7 @@
   {
     "Srno": 51,
     "Cert_id": "2025V051",
-    "Student_name": "POOJA RAVIKIRAN GHONGE ",
+    "Student_name": "POOJA RAVIKIRAN GHONGE",
     "Domain": "MACHINE LEARNING ",
     "Start_date": "15th Oct 2024",
     "End_date": "30th Nov 2024",
@@ -464,7 +464,7 @@
     "Student_name": "Apeksha Bhagat",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -473,7 +473,7 @@
     "Student_name": "Gayatri Darne",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -482,7 +482,7 @@
     "Student_name": "Sejal Pund",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -491,7 +491,7 @@
     "Student_name": "Gauri Wande",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -500,7 +500,7 @@
     "Student_name": "Tejaswini Ghore",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -509,7 +509,7 @@
     "Student_name": "Poonam Thakare",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -518,7 +518,7 @@
     "Student_name": "Rucha Raut",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -527,7 +527,7 @@
     "Student_name": "Tejaswi Sawarkar",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -536,7 +536,7 @@
     "Student_name": "Pooja Rode",
     "Domain": "Data Analytics",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -545,7 +545,7 @@
     "Student_name": "Sakshi Khode",
     "Domain": "Data Analytics",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -554,7 +554,7 @@
     "Student_name": "Shruti wadhekar",
     "Domain": "Data Analytics",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -563,7 +563,7 @@
     "Student_name": "Sanchita Sande",
     "Domain": "Data Analytics",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -572,7 +572,7 @@
     "Student_name": "Gauri Ingole",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -581,7 +581,7 @@
     "Student_name": "Nikita Dahake",
     "Domain": "Data Analytics",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -590,7 +590,7 @@
     "Student_name": "Akanksha Nandanwar",
     "Domain": "Data Analytics",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -599,7 +599,7 @@
     "Student_name": "Tapasya Mendole",
     "Domain": "Data Analytics",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -608,7 +608,7 @@
     "Student_name": "Anushka Chaturkar",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -617,7 +617,7 @@
     "Student_name": "Kamini Patil",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -626,7 +626,7 @@
     "Student_name": "Rounak Arwar",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -635,7 +635,7 @@
     "Student_name": "Om Rajesh Suklikar",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -644,7 +644,7 @@
     "Student_name": "Shivam Manoj Sharma",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -653,7 +653,7 @@
     "Student_name": "Shivaji Gajanan mule",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -662,7 +662,7 @@
     "Student_name": "Vishal Bhagwan Narwade",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -671,7 +671,7 @@
     "Student_name": "Gaurav Nitin Bawankar",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -680,7 +680,7 @@
     "Student_name": "Shreyash Maroti Meshram",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -689,7 +689,7 @@
     "Student_name": "Sunil Sanjay Bidve",
     "Domain": "Data Science",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -698,7 +698,7 @@
     "Student_name": "Nishar Sundar Chavan",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -707,7 +707,7 @@
     "Student_name": "Ansh Ramashankar Shahare",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -716,7 +716,7 @@
     "Student_name": "Vikas Sahebrao Kasolkar",
     "Domain": "Artificial Intelligence",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -725,7 +725,7 @@
     "Student_name": "Aditya Arvind Karbhal",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -734,7 +734,7 @@
     "Student_name": "Nayan Pawan Bhutada",
     "Domain": "Artificial Intelligence ",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -743,7 +743,7 @@
     "Student_name": "Mahesh Macchindra Phalke",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -752,7 +752,7 @@
     "Student_name": "Piyush Shyam Shirke",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -761,7 +761,7 @@
     "Student_name": "Jagdish Ramesh Rathod",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -770,7 +770,7 @@
     "Student_name": "Abhishek Indrajeet Madne",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -779,7 +779,7 @@
     "Student_name": "Manav Dhaye",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -788,7 +788,7 @@
     "Student_name": "Aditya Ingle",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -797,7 +797,7 @@
     "Student_name": "Yash Dhoke",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -806,7 +806,7 @@
     "Student_name": "Vivek Rekulwar",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   },
   {
@@ -815,7 +815,7 @@
     "Student_name": "Sudarshan Tayde ",
     "Domain": "Data Science & Machine Learning",
     "Start_date": "15th Dec 2024",
-    "End_date": "31st Jan 2024",
+    "End_date": "31st Jan 2025",
     "Semester": 7
   }
 ]
